@@ -515,7 +515,7 @@ You can set one with
 
 This is not working with app storage but on phone storage it will work with this
 ```haxe
-SUtil.getStorageDirectory() + 
+SUtil.getStorageDirectory();
 ```
 This will make the game use the phone storage but you will have to add one thing in your source
 
