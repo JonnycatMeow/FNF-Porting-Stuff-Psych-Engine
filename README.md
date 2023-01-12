@@ -87,7 +87,8 @@ Add
 	<section if="ios">
 		<!--Dependency--> 
 		<dependency name="Metal.framework" />
-		<dependency name="WebKit.framework" />
+		<dependency name="WebKit.framework" /> 
+		<dependency name="OpenGLES.framework" /> 
 	</section>
 ```
 
